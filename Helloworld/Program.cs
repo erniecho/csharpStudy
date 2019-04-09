@@ -24,6 +24,6 @@ class StormingTheCastle
         lastName = System.Console.ReadLine();
 
         System.Console.WriteLine(
-        $"Your full name is {firstName} {lastName}.");
+        $"Your full name is {0} {1}.", firstName, lastName);
     }
 }
