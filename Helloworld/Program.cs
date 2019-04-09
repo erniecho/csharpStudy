@@ -14,16 +14,22 @@ class StormingTheCastle
         miracleMax = "It would take a miracle.";
         System.Console.WriteLine(miracleMax);
 
-        string firstName, lastName;
+        string firstName, lastName; //Variable for storing the first and last name.
         System.Console.WriteLine("Hey you");
 
-        System.Console.Write("Enter your first name: ");
+        System.Console.Write/* No new line */("Enter your first name: "); 
         firstName = System.Console.ReadLine();
 
-        System.Console.Write("Enter your last name: ");
+        System.Console.Write/* No new line */("Enter your last name: ");
         lastName = System.Console.ReadLine();
-
+            
+            
+            /* Display a greeting to the console 
+            using composite formatting */
         System.Console.WriteLine(
         $"Your full name is {0} {1}.", firstName, lastName);
+        // This is the end
+        // of the programming listing.
+
     }
 }
