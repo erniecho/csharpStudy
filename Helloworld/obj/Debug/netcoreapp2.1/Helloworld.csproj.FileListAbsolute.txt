@@ -1,0 +1,11 @@
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/bin/Debug/netcoreapp2.1/Helloworld.deps.json
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/bin/Debug/netcoreapp2.1/Helloworld.runtimeconfig.json
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/bin/Debug/netcoreapp2.1/Helloworld.runtimeconfig.dev.json
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/bin/Debug/netcoreapp2.1/Helloworld.dll
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/bin/Debug/netcoreapp2.1/Helloworld.pdb
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/obj/Debug/netcoreapp2.1/Helloworld.csprojAssemblyReference.cache
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/obj/Debug/netcoreapp2.1/Helloworld.csproj.CoreCompileInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/obj/Debug/netcoreapp2.1/Helloworld.AssemblyInfoInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/obj/Debug/netcoreapp2.1/Helloworld.AssemblyInfo.cs
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/obj/Debug/netcoreapp2.1/Helloworld.dll
+/Users/erniecho/Desktop/EssentialC#7/Helloworld/obj/Debug/netcoreapp2.1/Helloworld.pdb
