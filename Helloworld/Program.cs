@@ -1,10 +1,11 @@
-class HelloWorld
+class StormingTheCastle
 {
     static void Main()
     {
         System.Console.WriteLine("Hello. My name is Inigo Montoya. ");
         string valerie;
-        string miracleMax = "Have fun storming the castle!";
+        string requirements, miracleMax;
+        requirements = miracleMax = "Have fun storming the castle!";
 
         valerie = "Think it will work?";
         System.Console.WriteLine(miracleMax);
@@ -13,5 +14,16 @@ class HelloWorld
         miracleMax = "It would take a miracle.";
         System.Console.WriteLine(miracleMax);
 
+        string firstName, lastName;
+        System.Console.WriteLine("Hey you");
+
+        System.Console.Write("Enter your first name: ");
+        firstName = System.Console.ReadLine();
+
+        System.Console.Write("Enter your last name: ");
+        lastName = System.Console.ReadLine();
+
+        System.Console.WriteLine(
+        $"Your full name is {firstName} {lastName}.");
     }
 }
