@@ -1,0 +1,11 @@
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/bin/Debug/netcoreapp2.1/Listing29.deps.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/bin/Debug/netcoreapp2.1/Listing29.runtimeconfig.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/bin/Debug/netcoreapp2.1/Listing29.runtimeconfig.dev.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/bin/Debug/netcoreapp2.1/Listing29.dll
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/bin/Debug/netcoreapp2.1/Listing29.pdb
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/obj/Debug/netcoreapp2.1/Listing29.csprojAssemblyReference.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/obj/Debug/netcoreapp2.1/Listing29.csproj.CoreCompileInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/obj/Debug/netcoreapp2.1/Listing29.AssemblyInfoInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/obj/Debug/netcoreapp2.1/Listing29.AssemblyInfo.cs
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/obj/Debug/netcoreapp2.1/Listing29.dll
+/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/obj/Debug/netcoreapp2.1/Listing29.pdb
