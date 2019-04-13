@@ -687,17 +687,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/Listing29.csproj",
-      "projectName": "Listing29",
-      "projectPath": "/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/Listing29.csproj",
+      "projectUniqueName": "/Users/erniecho/Desktop/EssentialC#7/Chapter2/listing216/listing216.csproj",
+      "projectName": "listing216",
+      "projectPath": "/Users/erniecho/Desktop/EssentialC#7/Chapter2/listing216/listing216.csproj",
       "packagesPath": "/Users/erniecho/.nuget/packages/",
-      "outputPath": "/Users/erniecho/Desktop/EssentialC#7/Chapter2/Listing29/obj",
+      "outputPath": "/Users/erniecho/Desktop/EssentialC#7/Chapter2/listing216/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/erniecho/.config/NuGet/NuGet.Config"
+        "/Users/erniecho/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -720,7 +720,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
