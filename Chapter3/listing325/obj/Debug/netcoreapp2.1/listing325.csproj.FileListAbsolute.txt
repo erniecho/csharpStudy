@@ -1,0 +1,11 @@
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/bin/Debug/netcoreapp2.1/listing325.deps.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/bin/Debug/netcoreapp2.1/listing325.runtimeconfig.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/bin/Debug/netcoreapp2.1/listing325.runtimeconfig.dev.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/bin/Debug/netcoreapp2.1/listing325.dll
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/bin/Debug/netcoreapp2.1/listing325.pdb
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/obj/Debug/netcoreapp2.1/listing325.csprojAssemblyReference.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/obj/Debug/netcoreapp2.1/listing325.csproj.CoreCompileInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/obj/Debug/netcoreapp2.1/listing325.AssemblyInfoInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/obj/Debug/netcoreapp2.1/listing325.AssemblyInfo.cs
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/obj/Debug/netcoreapp2.1/listing325.dll
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing325/obj/Debug/netcoreapp2.1/listing325.pdb
