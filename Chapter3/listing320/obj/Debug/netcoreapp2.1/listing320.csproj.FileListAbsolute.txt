@@ -1,0 +1,11 @@
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/bin/Debug/netcoreapp2.1/listing320.deps.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/bin/Debug/netcoreapp2.1/listing320.runtimeconfig.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/bin/Debug/netcoreapp2.1/listing320.runtimeconfig.dev.json
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/bin/Debug/netcoreapp2.1/listing320.dll
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/bin/Debug/netcoreapp2.1/listing320.pdb
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/obj/Debug/netcoreapp2.1/listing320.csprojAssemblyReference.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/obj/Debug/netcoreapp2.1/listing320.csproj.CoreCompileInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/obj/Debug/netcoreapp2.1/listing320.AssemblyInfoInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/obj/Debug/netcoreapp2.1/listing320.AssemblyInfo.cs
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/obj/Debug/netcoreapp2.1/listing320.dll
+/Users/erniecho/Desktop/EssentialC#7/Chapter3/listing320/obj/Debug/netcoreapp2.1/listing320.pdb
