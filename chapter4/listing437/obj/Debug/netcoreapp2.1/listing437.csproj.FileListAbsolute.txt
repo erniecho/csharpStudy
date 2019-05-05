@@ -1,0 +1,11 @@
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/obj/Debug/netcoreapp2.1/listing437.csprojAssemblyReference.cache
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/obj/Debug/netcoreapp2.1/listing437.csproj.CoreCompileInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/obj/Debug/netcoreapp2.1/listing437.AssemblyInfoInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/obj/Debug/netcoreapp2.1/listing437.AssemblyInfo.cs
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/bin/Debug/netcoreapp2.1/listing437.deps.json
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/bin/Debug/netcoreapp2.1/listing437.runtimeconfig.json
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/bin/Debug/netcoreapp2.1/listing437.runtimeconfig.dev.json
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/bin/Debug/netcoreapp2.1/listing437.dll
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/bin/Debug/netcoreapp2.1/listing437.pdb
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/obj/Debug/netcoreapp2.1/listing437.dll
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing437/obj/Debug/netcoreapp2.1/listing437.pdb
