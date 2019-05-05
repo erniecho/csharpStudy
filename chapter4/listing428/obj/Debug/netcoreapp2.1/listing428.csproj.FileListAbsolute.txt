@@ -1,0 +1,4 @@
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing428/obj/Debug/netcoreapp2.1/listing428.csprojAssemblyReference.cache
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing428/obj/Debug/netcoreapp2.1/listing428.csproj.CoreCompileInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing428/obj/Debug/netcoreapp2.1/listing428.AssemblyInfoInputs.cache
+/Users/erniecho/Desktop/EssentialC#7/chapter4/listing428/obj/Debug/netcoreapp2.1/listing428.AssemblyInfo.cs

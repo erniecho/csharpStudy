@@ -27,6 +27,11 @@ namespace listing421
             System.Console.WriteLine(
             $"Tic-tac-toe has more than {input}" +
             " maximum turns.");
+            else
+            //Input equals 9
+            System.Console.WriteLine( // line 33
+            "Correct, tic-tac-toe " +
+            "has a maximum of 9 turns.");
         }
     }
 }
